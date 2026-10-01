@@ -99,7 +99,7 @@ This repository contains my projects completed during the CodSoft Data Analytics
 
 **Yash kamble**
 
-B.Tech, IIT (ISM) Dhanbad
+B.Tech,IIT (ISM) Dhanbad
 
 Aspiring Data Analyst
 
