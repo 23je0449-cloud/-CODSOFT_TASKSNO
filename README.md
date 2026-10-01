@@ -97,7 +97,7 @@ This repository contains my projects completed during the CodSoft Data Analytics
 
 ## Author
 
-**Rameshwar Kawade**
+**Yash kamble**
 
 B.Tech, IIT (ISM) Dhanbad
 
